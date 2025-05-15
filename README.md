@@ -11,6 +11,7 @@ A topologia de rede foi criada utilizando o seguinte comando no terminal Mininet
 ```bash
 sudo mn --topo linear,6 --mac --link tc,bw=25
 ```
+![topologia](https://github.com/user-attachments/assets/69451bec-d2ad-4e38-8c41-4e2027bc1863)
 
 **1.2. Descrição da Topologia**
 
