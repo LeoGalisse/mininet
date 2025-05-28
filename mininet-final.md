@@ -45,7 +45,7 @@ Para isso foi desenvolvido o `add-flood.sh` para que isso seja feito de forma r�
 
 A visualização da árvore foi gerada usando o script Python `draw_mininet_tree.py`, que utiliza a biblioteca `networkx` para criar o grafo da árvore:
 
-![Topologia em árvore gerada pelo script draw\_mininet\_tree.py](Figure_1.png)
+![Figure_1](https://github.com/user-attachments/assets/ebc4e660-cce4-4944-bfb3-85b471d4cbcb)
 
 ### 1.4. Inspeção da Rede
 
@@ -507,7 +507,7 @@ h6 -> h1 h2 h3 h4 h5
 
 Foi usado o script `draw_mininet_tree2.py` para visualizar a topologia customizada, resultando em:
 
-![Topologia customizada](Figure_2.png)
+![Figure_2](https://github.com/user-attachments/assets/ff50fb92-efa7-414c-b234-debcf3a692ca)
 
 ### 2.3. Inspeção da Rede
 
